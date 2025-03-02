@@ -1,0 +1,17 @@
+{
+  "name": "testing-folder",
+  "version": "1.0.0",
+  "description": "REST API design",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Wasim Akhtar Khan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

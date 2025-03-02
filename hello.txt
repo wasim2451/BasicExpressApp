@@ -1,0 +1,16 @@
+To create a REST API
+GET api/user/ --> To get all Users    -- DONE
+GET api/user/:id --> To get a user by id  -- DONE 
+GET /users --> Render a HTML Page of Name and Contents -- DONE
+
+POST/ users--> DONE
+PUT /users/:id --> DONE
+DELETE /users/:id --> DONE
+PATCH /USERS/:ID --> DONE
+
+
+SET APPROPRIATE STATUS CODES
+200 - OK
+201 - CREATED
+404 - NOT FOUND
+401 - UNAUTHORIZED
